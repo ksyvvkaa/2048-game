@@ -16,6 +16,6 @@ The goal of the game is to slide numbered tiles on a grid to combine them and cr
 - HTML5
 - CSS3
 
-## Demo and Design
+## Demo
 
 [DEMO LINK](https://ksyvvkaa.github.io/2048-game/)
